@@ -7,9 +7,6 @@ public class Utilisateur {
 	private int age;
 	private static int id = 0;
 	
-	private int i = 0;
-	
-	
 	public static void fonction()
 	{
 		System.out.println("coucou");
