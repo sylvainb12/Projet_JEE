@@ -7,10 +7,6 @@ public class Utilisateur {
 	private int age;
 	private static int id = 0;
 	
-	public static void fonction()
-	{
-		System.out.println("coucou");
-	}
 	
 	//###### CONSTRUCTEUR ######
 	public Utilisateur()
