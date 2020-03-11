@@ -9,7 +9,7 @@ public class Utilisateur {
 	
 	public static void fonction()
 	{
-		System.out.println("coucou");
+		System.out.println("lucas");
 	}
 	
 	//###### CONSTRUCTEUR ######
