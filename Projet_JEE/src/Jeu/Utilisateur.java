@@ -6,7 +6,11 @@ public class Utilisateur {
 	private String prenom;
 	private int age;
 	private static int id = 0;
-	private int test;
+	
+	
+	
+	
+	private String test = "est ce que ça marche";
 	
 	//###### CONSTRUCTEUR ######
 	public Utilisateur()
