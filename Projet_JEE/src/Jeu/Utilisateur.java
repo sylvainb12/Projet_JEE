@@ -10,7 +10,10 @@ public class Utilisateur {
 	
 	
 	
-	private String test = "est ce que ça marche";
+	public static void fonction()
+	{
+		System.out.println("coucou");
+	}
 	
 	//###### CONSTRUCTEUR ######
 	public Utilisateur()
