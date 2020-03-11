@@ -7,7 +7,6 @@ public class Utilisateur {
 	private int age;
 	private static int id = 0;
 	
-	
 	//###### CONSTRUCTEUR ######
 	public Utilisateur()
 	{
